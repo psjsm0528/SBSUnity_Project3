@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &7887074447231507119
+--- !u!1001 &7442759164953065090
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -8,64 +8,80 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 187353799180950679, guid: edf8a3d90aca1cf4ea8defd501bb8400, type: 3}
+    - target: {fileID: 377967484634055707, guid: acdd71a040daa594c9386d554614c115, type: 3}
+      propertyPath: m_Name
+      value: Orc Blue
+      objectReference: {fileID: 0}
+    - target: {fileID: 5695109293092073564, guid: acdd71a040daa594c9386d554614c115, type: 3}
+      propertyPath: AttackPower
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 5695109293092073564, guid: acdd71a040daa594c9386d554614c115, type: 3}
+      propertyPath: HealthPoint
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 5695109293092073564, guid: acdd71a040daa594c9386d554614c115, type: 3}
+      propertyPath: RewardMoney
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5695109293092073564, guid: acdd71a040daa594c9386d554614c115, type: 3}
+      propertyPath: MaxHealthPoint
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6295464874092784382, guid: acdd71a040daa594c9386d554614c115, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 187353799180950679, guid: edf8a3d90aca1cf4ea8defd501bb8400, type: 3}
+    - target: {fileID: 6295464874092784382, guid: acdd71a040daa594c9386d554614c115, type: 3}
       propertyPath: m_LocalPosition.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 187353799180950679, guid: edf8a3d90aca1cf4ea8defd501bb8400, type: 3}
+    - target: {fileID: 6295464874092784382, guid: acdd71a040daa594c9386d554614c115, type: 3}
       propertyPath: m_LocalPosition.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 187353799180950679, guid: edf8a3d90aca1cf4ea8defd501bb8400, type: 3}
+    - target: {fileID: 6295464874092784382, guid: acdd71a040daa594c9386d554614c115, type: 3}
       propertyPath: m_LocalRotation.w
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 187353799180950679, guid: edf8a3d90aca1cf4ea8defd501bb8400, type: 3}
+    - target: {fileID: 6295464874092784382, guid: acdd71a040daa594c9386d554614c115, type: 3}
       propertyPath: m_LocalRotation.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 187353799180950679, guid: edf8a3d90aca1cf4ea8defd501bb8400, type: 3}
+    - target: {fileID: 6295464874092784382, guid: acdd71a040daa594c9386d554614c115, type: 3}
       propertyPath: m_LocalRotation.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 187353799180950679, guid: edf8a3d90aca1cf4ea8defd501bb8400, type: 3}
+    - target: {fileID: 6295464874092784382, guid: acdd71a040daa594c9386d554614c115, type: 3}
       propertyPath: m_LocalRotation.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 187353799180950679, guid: edf8a3d90aca1cf4ea8defd501bb8400, type: 3}
+    - target: {fileID: 6295464874092784382, guid: acdd71a040daa594c9386d554614c115, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 187353799180950679, guid: edf8a3d90aca1cf4ea8defd501bb8400, type: 3}
+    - target: {fileID: 6295464874092784382, guid: acdd71a040daa594c9386d554614c115, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 187353799180950679, guid: edf8a3d90aca1cf4ea8defd501bb8400, type: 3}
+    - target: {fileID: 6295464874092784382, guid: acdd71a040daa594c9386d554614c115, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5724753150096671516, guid: edf8a3d90aca1cf4ea8defd501bb8400, type: 3}
+    - target: {fileID: 8115327435945777847, guid: acdd71a040daa594c9386d554614c115, type: 3}
       propertyPath: m_Color.b
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 5724753150096671516, guid: edf8a3d90aca1cf4ea8defd501bb8400, type: 3}
+    - target: {fileID: 8115327435945777847, guid: acdd71a040daa594c9386d554614c115, type: 3}
       propertyPath: m_Color.g
-      value: 0.73424315
+      value: 0.51100063
       objectReference: {fileID: 0}
-    - target: {fileID: 5724753150096671516, guid: edf8a3d90aca1cf4ea8defd501bb8400, type: 3}
+    - target: {fileID: 8115327435945777847, guid: acdd71a040daa594c9386d554614c115, type: 3}
       propertyPath: m_Color.r
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6573427723760209914, guid: edf8a3d90aca1cf4ea8defd501bb8400, type: 3}
-      propertyPath: m_Name
-      value: Orc Blue
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: edf8a3d90aca1cf4ea8defd501bb8400, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: acdd71a040daa594c9386d554614c115, type: 3}

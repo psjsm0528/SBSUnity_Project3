@@ -7,13 +7,13 @@ AnimatorOverrideController:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Soldier
-  m_Controller: {fileID: 9100000, guid: c2438b867ff97ec499220292c70f3658, type: 2}
+  m_Controller: {fileID: 9100000, guid: 4d4b3437319383449a337eb9e6db640d, type: 2}
   m_Clips:
   - m_OriginalClip: {fileID: 7400000, guid: 7d2d5050a9f5b3442a3d6c4e3f952f3e, type: 2}
     m_OverrideClip: {fileID: 7400000, guid: 7d2d5050a9f5b3442a3d6c4e3f952f3e, type: 2}
   - m_OriginalClip: {fileID: 7400000, guid: e83d9225ef3fad04d9f3e0ea7ae4facc, type: 2}
     m_OverrideClip: {fileID: 7400000, guid: e83d9225ef3fad04d9f3e0ea7ae4facc, type: 2}
-  - m_OriginalClip: {fileID: 7400000, guid: baf9579d99dab7544a1156be4aabd5d2, type: 2}
-    m_OverrideClip: {fileID: 7400000, guid: baf9579d99dab7544a1156be4aabd5d2, type: 2}
   - m_OriginalClip: {fileID: 7400000, guid: f82b2c1a39b640f469f83ce823fae33e, type: 2}
     m_OverrideClip: {fileID: 7400000, guid: f82b2c1a39b640f469f83ce823fae33e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: baf9579d99dab7544a1156be4aabd5d2, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: baf9579d99dab7544a1156be4aabd5d2, type: 2}

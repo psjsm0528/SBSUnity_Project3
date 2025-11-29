@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 9c19d216b2a422d46bc9de59bb0c584b
+  productGUID: e60c8036e80f15345989fc3d6a58512f
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -677,11 +677,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 2
   windowsGamepadBackendHint: 0
-  cloudProjectId: 3d0e1562-b7b7-4c0b-b02b-9e94bb68a391
+  cloudProjectId: e9bfa914-ff1e-441a-9d64-42a22f9e3435
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: BattleSystem
-  organizationId: boy81399
+  organizationId: dhkim20016
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
